@@ -3,4 +3,4 @@ Autor: Ángela Robles Carrasco
 
 Proyecto de prácticas de Git.
 
-Salidas: sábados a las 9:00.
+Salidas: sábados a las 8:30.
